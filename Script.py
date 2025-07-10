@@ -230,7 +230,7 @@ User - {}"""
 
 #edith_verified_{}_completed"""
 
-    MOVIES_UPDATE_TXT = """<b>#𝑵𝒆𝒘_𝑭𝒊𝒍𝒆_𝑨𝒅𝒅𝒆𝒅 ✅
+    MOVIES_UPDATE_TXT = """<b>#ɴᴇᴡ_ꜰɪʟᴇ_ᴀᴅᴅᴇᴅ ✅
 **🍿 Title:** {title}
 **🎃 Genres:** {genres}
 **📆 Year:** {year}
